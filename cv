@@ -1,0 +1,140 @@
+# Nguyen Dinh Hong Phuc
+
+### Front-end Developer
+
+- 👶**Birthday**: 16/10/2000
+- 🏰**Address**: Quang Tri, Viet Nam
+
+## 🙋🏻‍♂️Brief introduction
+
+> Hi, I'm a front-end developer who can code all day without getting tired.
+
+I have a year experience with React Js, Gatsby Js and have more than 1 year self-studying ReactJs and doing personal project with ReactJs. And my goal in the next 2-3 year will be to reach the middle level, will learning more new technologies.
+
+In the past year, I have been very focused on learning and working front-end web programming. Now I am very confident that my abilities can meet your requirements.
+
+## 💻Work experience
+
+## Front-end Web Engineer
+
+**Madison Technology**, VietNam, March 2022 - February 2023
+
+Madison technology is a software technology in VietNam with over 100 employees in the VietNam and Malaysia. The company won the Top of the best places to work in Vietnam. The company's outstanding products such as Quincus, HITB, Fave, Experian,...
+
+I training and support Quincus project - a project to empower your entire supply chain ecosystem to be agile, transparent, and powered by data—from employees and suppliers to customers and hubs.
+
+I am a fresher front-end developer for the ProjectID project - a social networking platform to share learning knowledge of schools in Malaysia. My day job progress daily reporting, functional analysis, UI code, logic, estimation task.
+
+We use React, Typescript, GatsbyJs, Bitbucket, Jira and ClickUp for product development.
+
+## 👔Projects
+
+### Shopee clone
+
+This is a project to clone the user page of the e-commerce platform [Shopee](https://shopee.com).
+
+**Technologies used**: REST API, ReactJs, Typescript, Tailwindcss, React Router, React Hook Form, Yup, React Query, Webpack, ESLint, Prettier, React Helmet
+
+**Functions include**:
+
+- Manage authentication with JWT (automatic token refresh applied)
+- Use the Yup and React Hook Form to validate the form.
+- Smart Pagination, Filter, and Product Search
+- Incorporate state into the URL to easily share results across devices.
+- Asynchronous state management with React Query
+- Code Splitting
+- Improve performance by optimizing build file size analysis.
+- SEO with React Helmet
+- Separate the private and public routes.
+
+**🔗Webiste**: [Frontend-ShoppeClone-Typescript](https://frontend-shoppe-clone-typescript.vercel.app)
+
+**🔐Account for testing**: `Admin+1@gmail.com` / `123123`
+
+**🔗Github**: [Frontend-ShoppeClone-Typescript](https://github.com/Phucndh1610/Frontend-ShoppeClone-Typescript)
+
+### Movie
+
+This is a movie ticket booking project, which I designed and coded myself.
+
+**Technologies used**: ReactJs, Create React App, React Router, Redux, Antd, REST API, Yup
+
+**Functions include**:
+
+- Book tickets, ticket management, seat management, product Search
+- Use the Yup validate the form.
+- Fully responsive website
+- Scoped CSS with Styled Component
+- React Redux is used to manage state.
+- Code Splitting
+
+**🔗Webiste**: [Movie](https://cybersoft-movie-hongphuc.vercel.app)
+
+**🔗Github**: [Frontend-Movie](https://github.com/Phucndh1610/DuAnTotNghiep_BCDN01_Movie_ReactJs)
+
+### Diner Project
+
+A fully responsive website that I coded from a design file on the internet.
+
+**Technologies used**: HTML5, SASS, Bootstrap 5, Javascript
+
+**Functions include**:
+
+- Fully responsive website
+- Semantic HTML
+- Mega menu dropdown
+- Dark mode
+
+**🔗Webiste**: [Dinner Project](https://phucndh1610.github.io/Project-Dinner)
+
+**🔗Github**: [Frontend-Dinner](https://github.com/Phucndh1610/Project-Dinner)
+
+## 🔧Skills
+
+### 🔠Programming Languages
+
+Javascript, TypeScript.
+
+I'm quite confident that I can catch up with other languages when needed very quickly.
+
+### 💻Web Front-end Technologies
+
+React, React-hook, GatsbyJs, React Query, RTK Query, Redux, Styled Components, TailwindCss, Mui, Antd, Sass, Webpack, Cypress, Axios, Mock Service Worker, HTML5, CSS3, SEO.
+
+### 🔨Dev Tools
+
+Git, Postman, Lighthouse, React Developer Tool, Redux Dev Tool, React Query Dev Tool, Github, Bitbucket, Jira, Figma, VS Code, Bash
+
+### 💁🏻‍♂️Industrial & Interpersonal Skills
+
+Write, Present, Teamwork.
+
+## 🥇Honors & Awards
+
+- Good student of semester summer (2020)
+
+## 📚Education
+
+Software application
+
+**Fpt Polytechnic** - Software application, 2018 - 2020
+
+## 💋Languages
+
+- **English**
+  Read and understand specialized documents. Good communication.
+
+- **Vietnamese**
+
+  Native speaker.
+
+## ☎️Contact information
+
+- 📞Phone: 0982 035 609
+- 📧Email: [phucndh1610@gmail.com](mailto:phucndh1610@gmail.com)
+- 🔗Github: [https://github.com/Phucndh1610](https://github.com/Phucndh1610)
+- 🔗Facebook: [https://www.facebook.com/HongPhuc](https://www.facebook.com/profile.php?id=100030832956378)
+
+## 🙏🏻Thanks!
+
+> Looking forward to hearing from you - Nguyen Dinh Hong Phuc
